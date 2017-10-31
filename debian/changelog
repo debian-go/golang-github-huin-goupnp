@@ -1,3 +1,10 @@
+golang-github-huin-goupnp (0.0~git20171001.0.b388724-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20171001.0.b388724
+  * Fix lintian warnings
+
+ -- Free Ekanayaka <freee@debian.org>  Tue, 31 Oct 2017 23:40:36 +0000
+
 golang-github-huin-goupnp (0.0~git20161025.0.97f671e-1) unstable; urgency=medium
 
   * Initial release (Closes: #852113)
